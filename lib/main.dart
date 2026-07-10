@@ -3,8 +3,8 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:tree/screens/homescreen.dart';
 import 'package:tree/screens/loginscreen.dart';
 
-const supabaseUrl = 'https://cgtzecimpepsoyyicwur.supabase.co';
-const supabaseAnonKey = 'sb_publishable_NlrOdkMd0Jro46IQiJSelQ_NsYVpO86';
+const supabaseUrl = '';
+const supabaseAnonKey = '';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
